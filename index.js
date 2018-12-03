@@ -19,7 +19,7 @@ class App extends React.Component{
         <StatusBar hidden={true} />
 
         <Text style={styles.defaultText}>
-        GIT live
+        GIT live 2 now
         </Text>
         <Text style={[styles.defaultText,styles.selectedText]}>
         Bonjour le mounde!!!
